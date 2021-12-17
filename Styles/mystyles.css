@@ -1,0 +1,80 @@
+
+
+
+h4 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background-color: thistle;
+  font-family: 'Times New Roman', Times, serif;
+}
+.common {
+   background-color: #cccccc;
+   border: solid 2px whitesmoke;
+   position: absolute;
+}
+
+
+.leftmenu {
+top: 114px;
+left: 5px;
+width: 100px;
+bottom: 64px;
+padding-top: 40px;
+}
+.mainbody {
+
+top: 114px;
+left: 114px;
+right: 114px;
+bottom: 64px;
+}
+.rightmenu {
+top: 114px;
+left: 5px;
+width: 100px;
+bottom: 64px;
+}
+
+.footer {
+bottom: 5px;
+left: 5px;
+right: 5px;
+height: 50px;
+font-size: small;
+color: thistle;
+text-align: center;
+position: relative;
+}
+.subheader{
+float: fixed;
+}
+
+.youtubevideo {
+  text-align: center;
+}
+
+li {
+  text-align: left;
+  text-decoration: white;
+}
+ol {
+  text-align: left;
+  text-decoration: white;
+}
+ul {
+  text-align: left;
+  text-decoration: white;
+}
+body {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 600;
+  text-decoration-line; color: white
+}
+
+footer {
+  
+
+}
